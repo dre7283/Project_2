@@ -2,12 +2,9 @@
 
 ## Description
 
-Ohio is a great place to live and explore.  This Blog allow anyone to put in their experience with anything including event, dining or places that they visit.  It will let you to add the event or places you perosnally experienced and review with rating and allow you comment it.  
+Ohio is a great place to live and explore.  This Blog allow anyone to put in their experience with anything including event, dining or places that they visit.  It will let you to add the event or places you personally experienced and added to the homepage.  In order to put in your experience, you will need to create user id and password.  Once your account is set, it will allow you to create new post or add addition comment to post already made by other.  
 
 
-## Installation
-
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
 ## Usage
 
@@ -19,13 +16,6 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
     ![alt text](assets/images/screenshot.png)
     ```
 
-## Credits
-
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
 
 ## License
 
@@ -41,12 +31,25 @@ Badges aren't necessary, per se, but they demonstrate street cred. Badges let ot
 
 ## Features
 
-If your project has a lot of features, list them here.
+This project was done as full stack project which we used SQL, Express, Nodes and Javascripts.  
 
-## How to Contribute
+## Future enhancement
 
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
+We are planning to add geo location for the post listed.  Also will be adding API that can look up events date and cancellation.  Further more, we will be spliting them into 3 different categorize that will make it easier for user to use and search for post with a new search box.  
 
-## Tests
+## Credits
 
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+Deidre Carson
+Email: deidre.carson@outlook.com
+
+Annie Hoang
+Email: anniehoang.anh@gmail.com
+
+Nick Strang
+Email: Strangn10@gmail.com
+
+Vincent Dejulius
+Email: dejuliusvince@gmail.com
+
+Eric Shek
+Email: ericshek23@yahoo.com
