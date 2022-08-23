@@ -2,6 +2,25 @@ header, .project:not(:last-child) {
   border-bottom: 1px solid #ccc;
 }
 
+a:hover{
+  color:black;
+  text-decoration: none;
+}
+
+header{
+  background-color: #BB0000;
+  color: black;
+}
+
+.header-text{
+  color: white;
+}
+
+body{
+  background-color: #FFFFFF;
+  color: black;
+}
+
 .no-button {
   background: none;
   border: none;
@@ -21,4 +40,14 @@ header, .project:not(:last-child) {
   color: #056605;
   font-weight: bold;
   margin-left: -5px;
+}
+
+.ohio{
+  height: 1em;
+}
+
+#grey-column{
+  background-color: grey;
+  color:white;
+  border: solid black 2px;
 }
