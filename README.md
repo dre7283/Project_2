@@ -1,8 +1,8 @@
-# Project_2
+# What's good Columbus?
 
 ## Description
 
-Ohio is a great place to live and explore.  This Blog allow anyone to put in their experience with anything including event, dining or places that they visit.  It will let you to add the event or places you personally experienced and added to the homepage.  In order to put in your experience, you will need to create user id and password.  Once your account is set, it will allow you to create new post or add addition comment to post already made by other.  
+Columbus, Ohio is a great place to live and explore.  This Blog allow anyone to put in their experience with anything including event, dining or places that they visit.  It will let you to add the event or places you personally experienced and added to the homepage.  In order to put in your experience, you will need to create user id and password.  Once your account is set, it will allow you to create new post or add addition comment to post already made by other.  
 
 
 
