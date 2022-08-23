@@ -1,0 +1,28 @@
+<div class="text-center">
+  <h2>{{name}}</h2>
+  <p>{{description}}</p>
+  <p>Created by {{user.name}} on {{format_date date_created}}</p>
+  <p>
+    <span class="dollar-amount">{{needed_funding}}</span>
+    <span for="img" aria-label="money">⭐</span>
+  </p>
+  <p>
+  <form class="form new-comment-form">
+    <div class="comment-group">
+      <h5>Leave a Comment</h5>
+      <textarea class="comment-form-input" id="comment-desc" name="comment-desc"></textarea>
+    </div>
+    <div class="comment-group">
+      <button type="submit" class="btn btn-primary">Submit</button>
+    </div>
+  </form>
+  <p></p>
+{{#each comments as |comment|}}
+<p>{{comment.comment_text}} by {{user.name}} on {{format_date date_created}}</p>
+{{/each}}
+  </p>
+</div>
+
+
+
+<script src="/js/comment.js"></script>
