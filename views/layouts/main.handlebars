@@ -11,13 +11,16 @@
   <link rel="stylesheet" href="/css/style.css">
 </head>
 
-<body>
+<body class="site-background">
   <div class="flex-column justify-space-around">
-    <header class="display-flex justify-space-between align-center p-2">
+    <header class="display-flex justify-space-around align-center p-2">
       <h1>
-        <span role="img" aria-label="money"><img class="ohio" src="/assets/Ohio.gif"/></span>
+        <span role="img" aria-label="money"><img class="ohio" src="/assets/Ohio_white.png"/></span>
         <a href="/" class="header-text">What's Good Columbus</a>
       </h1>
+      <figure>
+        <img src="/assets/columbus_sky_white.png" alt="Columbus skyline illustraion" height="60px">
+      </figure>
       <nav>
         <!-- Conditionally render login or logout links -->
         {{#if logged_in}}
