@@ -8,13 +8,13 @@ Columbus, Ohio is a great place to live and explore.  This Blog allow anyone to 
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+   <img src="../Project_2/imagines/Screenshot homepage.png">
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+
+
+
+   <img src= "../Project_2/imagines/Screenshot review page.png">
 
 
 ## License
