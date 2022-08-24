@@ -12,6 +12,8 @@ header{
   color: black;
 }
 
+
+
 .header-text{
   color: white;
 }
@@ -50,4 +52,8 @@ body{
   background-color: grey;
   color:white;
   border: solid black 2px;
+}
+
+.Cityscape{
+  
 }
