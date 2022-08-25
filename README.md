@@ -9,12 +9,12 @@ Columbus, Ohio is a great place to live and explore.  This Blog allow anyone to 
 ## Usage
 
 
-   <img src="../Project_2/imagines/Screenshot homepage.png">
+   <img src="../Project_2/imagines/Screenshot_homepage.png">
 
 
 
 
-   <img src= "../Project_2/imagines/Screenshot review page.png">
+   <img src= "../Project_2/imagines/Screenshot_review_page.png">
 
 
 ## License
