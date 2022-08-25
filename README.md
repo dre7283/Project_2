@@ -2,27 +2,36 @@
 
 ## Description
 
-Columbus, Ohio is a great place to live and explore.  This Blog allows anyone to put in their experience with anything including events, dining or places that they visit.  It will let you to add the events or places you personally experienced and added to the homepage.  In order to put in your experience, you will need to create user id and password.  Once your account is set, it will allow you to create new post or add addition comment to post already made by other.  
+Columbus, Ohio is a great place to live and explore.  This Blog allow anyone to put in their experience with anything including event, dining or places that they visit.  It will let you to add the event or places you personally experienced and added to the homepage.  In order to put in your experience, you will need to create user id and password.  Once your account is set, it will allow you to create new post or add addition comment to post already made by other.  
 
 
 
 ## Usage
 
 
-   ![homePage](./imagines/Screenshot_homepage.png)
+   <img src="../Project_2/imagines/Screenshot homepage.png">
 
 
 
 
-   ![reviewPage](./imagines/Screenshot_review_page.png)
+   <img src= "../Project_2/imagines/Screenshot review page.png">
 
 
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
+
+## Badges
+
+![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
+
+Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
 
 ## Features
 
-
-This project was done as full stack project which we used MySQL, Sequelize, Express, Handlebars, Node.js and Javascript.  
-
+This project was done as full stack project which we used SQL, Express, Nodes and Javascripts.  
 
 ## Future enhancement
 
